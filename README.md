@@ -5,7 +5,10 @@
 ![GitHub forks](https://img.shields.io/github/forks/AnkushMaurya?style=social)
 
 ## About Me
-Hey there! I'm Ankush Maurya, a passionate developer who graduated in 2022. Currently, I'm diving deep into the world of React.js and JavaScript. I've been honing my skills by working on various projects covering:
+Hey there! I'm Ankush Maurya, a passionate developer who graduated in 2022. Currently, I'm diving deep into the world of React.js and JavaScript. I've been honing my skills by working on various projects.
+I'm a passionate developer who loves building web applications. Graduated in 2022, I've been on an exciting journey exploring the realm of web development, particularly focusing on React.js and JavaScript. Below, you'll find some of my projects and the technologies I've been working with.
+
+## 🚀 Technologies & Tools
 - ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white) 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)

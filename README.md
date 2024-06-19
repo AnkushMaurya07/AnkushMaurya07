@@ -22,21 +22,21 @@ I'm a passionate developer who loves building web applications. Graduated in 202
 ## Projects
 Here are some of the projects I've been working on:
 
-1. **Project 1**: [Description of Project 1]
-   - Technologies used: React.js, Redux, Tailwind CSS
+1. **Kanhaiya Caterers**: [Description of Project 1]
+   - Technologies used: React.js, Tailwind CSS
    - [Link to Project 1]
 
-2. **Project 2**: [Description of Project 2]
+2. **BlogBurst**: [Description of Project 2]
    - Technologies used: React.js, Material UI
-   - [Link to Project 2]
+   - [(https://blog-app-blog-burst.vercel.app/)]
 
-3. **Project 3**: [Description of Project 3]
+3. **CryptoBazar**: [Description of Project 3]
    - Technologies used: JavaScript, HTML, CSS
    - [Link to Project 3]
 
 ## How to Reach Me
 If you want to collaborate or just have a chat, feel free to reach out to me via:
-- Email: [YourEmail@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [ankushmaurya881@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/ankush-maurya-88342816a/]
 
 Let's connect and build something awesome together! 🚀

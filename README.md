@@ -9,7 +9,7 @@ Check out my projects below and the tools I use to bring ideas to life!
 1. Kanhaiya Caterers:-
 An interactive catering service website with features such as a customizable menu, inquiry forms, and a booking system. Integrated smooth animations using Framer Motion and email communication via EmailJS for seamless user interaction.
 
-Project Link:-<a href="[https://www.kanhaiyacaterers.co.in/">Live</a>
+Project Link:-<a href="https://www.kanhaiyacaterers.co.in/">Live</a>
 
 
 Technologies:

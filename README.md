@@ -21,6 +21,7 @@ Technologies:
 
 2. BlogBurst:-
 A dynamic blog application with Redux-based state management, seamless navigation, and a rich text editor for blog creation. Features a fully responsive design using Material UI and advanced form handling.
+
 Project Link:-<a href="https://blog-app-blog-burst.vercel.app/">Live</a>
 
 Technologies:

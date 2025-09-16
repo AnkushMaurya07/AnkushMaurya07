@@ -42,6 +42,9 @@ Optimized frontend performance with lazy loading, reusable components, and clean
 Created image-based product descriptions & tagging features for enhanced content management.
 
 Collaborated in Agile teams to deliver scalable e-commerce and event-based systems.
+
+
+
 **Internship** | TechCherry 
 *April 2024 – June 2024*  
 
